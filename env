@@ -1,0 +1,10 @@
+
+# .env file template
+
+# MES-Metris.py
+mes_uri = http://172.29.249.6:8080/WebService1.asmx
+
+# Report and send.py
+METRIS_URI = "https://172.22.89.119:9000" 
+METRIS_USERNAME="Yiting"
+METRIS_PASSWORD ="Metris123*"
