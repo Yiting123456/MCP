@@ -1,5 +1,5 @@
 # MCP:CONNECT TO YOUR INDUSTRY DATA
-This was comstomized created by me for Metris Platform, if you want to create a mcp for your own company, contact me.😊
+This was comstomized created by me for Metris Platform, if you are interested in mcp and want to create a mcp for your own company, contact me.😊
 
 # Table of Contents
 1.Adding MCP to your Python project
