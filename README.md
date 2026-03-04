@@ -33,3 +33,6 @@ pip install -r requirements.txt
 
 # This setup allows you to connect to industry data using the MCP for the Metris Platform. If you encounter any issues, feel free to reach me.
 
+<img width="700" height="798" alt="image" src="https://github.com/user-attachments/assets/253158a8-8048-460e-875b-9b89b5e6cf59" />
+
+
